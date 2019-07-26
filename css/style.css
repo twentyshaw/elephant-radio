@@ -11,7 +11,7 @@
   top: -10px;
   bottom: -10px;
   right: -10px;
-  background: url(http://cloud.hunger-valley.com/music/public_tuijian_spring.jpg-big) center center no-repeat;
+  background: url(bg.jpeg) center center no-repeat;
   background-size: cover;
   filter: blur(4px);
 }
@@ -43,7 +43,7 @@ main .aside {
 main .aside figure{
   width: 46vh;
   height: 46vh;
-  background-image: url(http://cloud.hunger-valley.com/music/public_tuijian_spring.jpg-middle);
+  background-image: url(bg.jpeg);
   background-size: cover;
   position-position: center center;
 }
